@@ -13,7 +13,8 @@ we will focus primarily on each & every part of data science life-cycle..
         I)  Feature encoding
         II) checking outliers & impute it..
         III)Feature selection or feature importance
-        
     e) build machine leaning model & dump it..
     f) Automate ML Pipeline 
     g) hypertune ml model..along with cross validation
+        
+
